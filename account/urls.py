@@ -13,6 +13,7 @@ urlpatterns = [
 
     #user profile
     url(r'^register/$',views.register, name='register'),
+    url(r'^edit/$', views.edit, name='edit'),
 
     #login and logout
     url(r'^login/$','django.contrib.auth.views.login', name='login'),
