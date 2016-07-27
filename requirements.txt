@@ -2,13 +2,17 @@
 # https://github.com/Damnever/pigar
 
 # account/admin.py: 1
-# account/forms.py: 8,9
-# account/models.py: 1,2
+# account/authentication.py: 8
+# account/forms.py: 14,15,16,17
+# account/migrations/0001_initial.py: 4,5
+# account/migrations/0002_auto_20160713_1841.py: 4
+# account/migrations/0003_auto_20160713_1844.py: 4
+# account/models.py: 1,2,3
 # account/tests.py: 1
 # account/urls.py: 8
-# account/views.py: 12,14
+# account/views.py: 12,14,16
 # bookmarks/settings.py: 15
-# bookmarks/urls.py: 16,17
+# bookmarks/urls.py: 16,17,18,19
 # bookmarks/wsgi.py: 12
 # manage.py: 8
 Django == 1.8.6
